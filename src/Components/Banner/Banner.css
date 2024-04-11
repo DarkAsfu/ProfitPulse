@@ -1,0 +1,32 @@
+.slide{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+}
+.slide1{
+    /* background: (rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(./slider1.jpg) rgba(0, 0, 0, 0.4); */
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://i.ibb.co/840bdxs/slider1.jpg);
+    background-position: center;
+}
+
+.slide2{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://i.ibb.co/GtYpryF/sarah-nader-DQ28tllxe-HM-unsplash.jpg);
+    background-position: center;
+}
+.slide3{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://i.ibb.co/7pjQW3m/owen-lystrup-bo-Lgi-M0qwkg-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.swiper-pagination-bullet-active{
+    background-color: #1abc9c;
+}
+/* 
+
+https://i.ibb.co/7pjQW3m/owen-lystrup-bo-Lgi-M0qwkg-unsplash.jpg
+https://i.ibb.co/GtYpryF/sarah-nader-DQ28tllxe-HM-unsplash.jpg
+https://i.ibb.co/0jxR579/sean-pollock-Ph-Yq704ffd-A-unsplash.jpg
+*/
