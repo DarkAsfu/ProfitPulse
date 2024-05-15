@@ -46,7 +46,7 @@ const Navbar = () => {
                             </ul>
                         )}
                     </div>
-                    <a href="/" className="text-2xl font-bold text-white">ProitPulse</a>
+                    <a href="/" className="text-2xl font-bold text-white">ProfitPulsar</a>
                 </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu text-white font-semibold text-md menu-horizontal px-1">

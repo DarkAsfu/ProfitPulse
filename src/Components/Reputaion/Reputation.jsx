@@ -10,7 +10,7 @@ const Reputation = () => {
                 <div className="text-center">
                     <h1 className="text-2xl text-white md:text-3xl font-bold">OUR <span className='text-[#1abc9c]'>REPUTATION</span></h1>
                     <div className="divider divider-accent w-20 mx-auto"></div>
-                    <p className="md:text-md text-white font-semibold md:px-72">We are a highly reputable affiliate network. DMSAffiliates was founded in early 2016 and has grown from 0 to over 20.000 publishers within 5 years.</p>
+                    <p className="md:text-md text-white font-semibold md:px-72">We are a highly reputable affiliate network. ProfitPulsar was founded in early 2016 and has grown from 0 to over 20.000 publishers within 5 years.</p>
                 </div>
                 <div className='grid grid-cols-2 md:grid-cols-4 w-10/12 mx-auto mt-10'>
                     <div >

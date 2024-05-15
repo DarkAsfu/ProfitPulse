@@ -30,7 +30,7 @@ export default function Banner() {
         <SwiperSlide>
           <div className="slide1 slide ">
             <div className='w-10/12 mx-auto pt-[60%] md:pt-[20%]'>
-              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulse</h1>
+              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulsar</h1>
               <p className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>WE ARE STRIVING TO BE THE <span className='text-[#1abc9c]'>FASTEST PAYING</span></p>
               <h3 className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>AFFILIATE NETWORK OF THE INDUSTRY</h3>
               <div className='mt-5'>
@@ -43,7 +43,7 @@ export default function Banner() {
         <SwiperSlide>
           <div className='slide slide2'>
           <div className='w-10/12 mx-auto pt-[60%] md:pt-[20%]'>
-              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulse</h1>
+              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulsar</h1>
               <p className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>WE ARE STRIVING TO BE THE <span className='text-[#1abc9c]'>BEST CONVERTING</span></p>
               <h3 className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>AFFILIATE NETWORK OF THE INDUSTRY</h3>
               <div className='mt-5'>
@@ -56,7 +56,7 @@ export default function Banner() {
         <SwiperSlide>
           <div className='slide slide3'>
             <div className='w-10/12 mx-auto pt-[60%] md:pt-[20%]'>
-              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulse</h1>
+              <h1 className='text-white text-xl md:text-4xl font-bold uppercase'>WELCOME TO <span className='text-[#1abc9c]'>Profit</span>Pulsar</h1>
               <p className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>WE ARE STRIVING TO BE THE <span className='text-[#1abc9c]'>HIGHEST PAYING</span></p>
               <h3 className='text-white text-2xl md:text-4xl font-bold uppercase mt-4'>AFFILIATE NETWORK OF THE INDUSTRY</h3>
               <div className='mt-5'>

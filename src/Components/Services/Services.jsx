@@ -6,7 +6,7 @@ import { GrDiamond } from "react-icons/gr";
 const Services = () => {
     return (
         <div className="bg-[#F9F9F9] py-10">
-            <div className="w-10/12 mx-auto">
+            <div className="w-full mx-auto">
                 <div className="text-center">
                     <h1 className="text-2xl md:text-3xl font-bold">OUR <span className='text-[#1abc9c]'>SERVICES</span></h1>
                     <div className="divider divider-accent w-20 mx-auto"></div>
